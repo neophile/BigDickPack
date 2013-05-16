@@ -178,6 +178,7 @@ symbol {
     B:modgreen.enabled=true
     B:modhalf.enabled=true
     B:modmagenta.enabled=true
+    B:modmat_tile.crudeoilstill.enabled=true
     B:modmat_tile.glass.enabled=true
     B:modmat_tile.hellrock.enabled=true
     B:modmat_tile.ice.enabled=true
